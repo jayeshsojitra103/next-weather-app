@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  app:
+    image: next-weather-app
+    build: .
+    ports:
+      - 3000:3000
+    volumes:
+      - ./pages:/app/pages
+      - ./public:/app/public
+      - ./styles:/app/styles
+      - ./component:/app/component
+      - ./lib:/app/lib
+    env_file:
+      - ./.env.local
