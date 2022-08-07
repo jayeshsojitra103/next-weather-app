@@ -1,6 +1,6 @@
 ## Demo
 
-[https://next-weather-au1cr8v3n-jayeshsimform.vercel.app/](https://next-weather-au1cr8v3n-jayeshsimform.vercel.app/)
+[https://next-weather-app-rho.vercel.app/](https://next-weather-app-rho.vercel.app/)
 
 ## Getting Started
 
